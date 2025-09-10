@@ -15,4 +15,3 @@ const students = Array(5)
 for (let i = 0; i < students.length; i++) {
     console.log(`${students[i]}'s id is ${i * 10}`)
 }
-
